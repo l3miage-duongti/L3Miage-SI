@@ -1,4 +1,4 @@
-Transformation T11
+Transformation TMin
 Auteurs:
 	l3miage-duongti
 	l3miage-barryma
@@ -11,19 +11,15 @@ Feuille Google SpreadSheet
 
 
 Transformations
-	TC(Etudiant)
-	TC(Batiment)
-	TEG(Categorie)
-	TC(Jardins)
-	TC(Appartements)
-	TC(AppartPlus)+THG(AppartPlus)
-	TC(Chambre)+THG(Chambre)
-	TCAG(Garde)
-	TCAG(Partage)
-	TAG(Contient)
-	TAG(Garde)
-	TAG(Inspecte)
-	TAG(Occupe)
+	LesEtudiants	TC(Etudiant)
+	LesBatiments	TC(Batiment)
+	LesJardins		TC(Jardins)
+	LesAppartements	TC(Appartements) + THU(AppartPlus, Chambre)
+	Contient		TAG(Contient)
+	Garde			TCAG(Garde) + TAG(Garde) 
+	Inspecte		TAG(Inspecte)
+	Occupe			TAG(Occupe)
+	Partage			TCAG(Partage)  + TAG(Partage)
 Statut:
 	OK
 Execution:
