@@ -3,6 +3,7 @@ Auteurs:
 	l3miage-duongti
 	l3miage-barryma
 	l3miage-diallo20
+	l3miage-cholvyj
 
 Classeur
 https://docs.google.com/spreadsheets/d/1b8EIzjrZAc_dRmpbePHy-HPu-wFUzXRLqhjeR92JmkQ/edit?usp=sharing
