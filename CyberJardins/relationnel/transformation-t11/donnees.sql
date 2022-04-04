@@ -48,6 +48,7 @@ INSERT INTO Occupe VALUES ('jean', 110, 'vivaldi');
 INSERT INTO Occupe VALUES ('louis', 110, 'mozart');
 INSERT INTO Occupe VALUES ('ahmed', 120, 'mozart');
 INSERT INTO Occupe VALUES ('ralf', 120, 'mozart');
+INSERT INTO Occupe VALUES ('marie', 110, 'mozart');
 
 INSERT INTO Partage VALUES (1, 110, 'mozart', 'pomme');
 INSERT INTO Partage VALUES (2, 110, 'vivaldi', 'pomme');
